@@ -12,7 +12,7 @@
 
 <br>
 
-![print 1](img/site.png)
+![print 1](site.png)
 
 ## por trás do projeto
 <br>
@@ -32,7 +32,7 @@ https://github.com/moreiragustavo/AutoStar-SistemaOs/blob/main/SistemaOS-main/RE
 
 <br>
 
-![sistemaos](img/principal.png)
+![sistemaos](principal.png)
 
 <br>
 
