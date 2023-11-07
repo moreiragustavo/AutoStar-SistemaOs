@@ -3,7 +3,7 @@
 <br>
 <hr>
 
-![icone](img/logo.png)
+![icone](logo.png)
 
 ## Descrição: 
 <br>
