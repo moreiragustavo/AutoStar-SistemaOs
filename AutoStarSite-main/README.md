@@ -20,7 +20,7 @@
 <H3> Inicialmente, foi necessário configurar uma máquina virtual para hospedar o site, sendo o Linux Server o sistema operacional escolhido para essa finalidade, ultilizamos o Wordpress em conjunto com o Elementor pro para fazer o site. </H3>
 <br>
 
-![linux](img/linux.png) ![rack1](img/rack1.png)
+![linux](linux.png) ![rack1](rack1.png)
 
 <br>
 
